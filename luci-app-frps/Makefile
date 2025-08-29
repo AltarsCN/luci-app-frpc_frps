@@ -1,7 +1,7 @@
 include $(TOPDIR)/rules.mk
 
-PKG_VERSION:=1.0.0-20
-PKG_RELEASE:=1
+PKG_VERSION:=1.0.0
+PKG_RELEASE:=20
 
 LUCI_TITLE:=LuCI support for Frps
 LUCI_DEPENDS:=+libc
